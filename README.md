@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h1>✨ Bharat Singh ✨ </h1>
 <!--
 **imbharat420/imbharat420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+    <img alt="Joker" height="300px" aria-label="profile image" src="https://avatars.githubusercontent.com/u/51924618" /> 
+  <h1 align="center" aria-label="profile name" >✨ Bharat Singh ✨</h1>
+</p>
 
 
 [![wakatime](https://wakatime.com/badge/user/c36c5ee1-a73f-46f1-99e4-1a87bc01948f.svg)](https://wakatime.com/@c36c5ee1-a73f-46f1-99e4-1a87bc01948f)
