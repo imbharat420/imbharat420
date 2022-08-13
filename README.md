@@ -1,5 +1,8 @@
-### Hi there 👋
-<h1>✨ Bharat Singh ✨ </h1>
+### ✨ Bharat Singh ✨ ###
+
+[![wakatime](https://wakatime.com/badge/user/c36c5ee1-a73f-46f1-99e4-1a87bc01948f.svg)](https://wakatime.com/@c36c5ee1-a73f-46f1-99e4-1a87bc01948f)
+
+
 <!--
 **imbharat420/imbharat420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +19,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-
-  <img alt="profile redme image"  height="300px" aria-label="profile image" src="https://user-images.githubusercontent.com/51924618/184501682-879e2d1a-1efc-462b-aa22-334489eb5e92.gif"/>
+  <img alt="profile redme image" src="https://user-images.githubusercontent.com/51924618/184501682-879e2d1a-1efc-462b-aa22-334489eb5e92.gif"/>
   <h1 align="center" aria-label="profile name" >✨ Bharat Singh ✨</h1>
 </p>
-
-
-[![wakatime](https://wakatime.com/badge/user/c36c5ee1-a73f-46f1-99e4-1a87bc01948f.svg)](https://wakatime.com/@c36c5ee1-a73f-46f1-99e4-1a87bc01948f)
