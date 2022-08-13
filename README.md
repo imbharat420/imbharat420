@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+
+  <img alt="profile redme image" src="https://user-images.githubusercontent.com/51924618/184501682-879e2d1a-1efc-462b-aa22-334489eb5e92.gif"/>
   <h1 align="center" aria-label="profile name" >✨ Bharat Singh ✨</h1>
 </p>
 
