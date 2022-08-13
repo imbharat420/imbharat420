@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img alt="Joker" height="300px" aria-label="profile image" src="https://avatars.githubusercontent.com/u/51924618" /> 
   <h1 align="center" aria-label="profile name" >✨ Bharat Singh ✨</h1>
 </p>
 
