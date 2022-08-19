@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 
 ### Github Trophy
-<hr>
+<hr/>
 <p align="left">
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=imbharat420)
 </p>
