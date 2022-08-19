@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 ### Take a look into it 
-<p><a href="https://github.com/imbharat420/solidity-for-beginner">➡️ Learn Solidity 😉 </a></p>
+<p><a href="https://github.com/imbharat420/solidity-for-beginner"> ➡️ Learn Solidity 😉 </a></p>
 
 
 
@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 ### Github Trophy
 
+<p align="left">
 
-[![Github Trophy](https://github-profile-trophy.vercel.app/?username=imbharat420)]
-
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=imbharat420)
+</p>
