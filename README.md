@@ -49,5 +49,8 @@ Here are some ideas to get you started:
 </p>
 
 
+### Github Trophy
+
+
 [![Github Trophy](https://github-profile-trophy.vercel.app/?username=imbharat420)]
 
