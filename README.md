@@ -51,6 +51,5 @@ Here are some ideas to get you started:
 
 <h2>Github Trophy</h2>
 
-<p align="left">
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=imbharat420)
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=imbharat420&theme=onedark)](https://github.com/imbharat420/github-profile-trophy)
+
