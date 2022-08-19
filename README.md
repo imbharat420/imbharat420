@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </p>
 
 
-### Github Trophy
+<h2>Github Trophy</h2>
 
 <p align="left">
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=imbharat420)
