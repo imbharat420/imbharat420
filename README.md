@@ -91,8 +91,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>Stackoverflow 🖼️ </summary>
-  
-  ### [Stackoverflow]([https://wakatime.com/@Imbharat420](https://stackoverflow.com/users/12071002/imbharat420))
+  ### [Stackoverflow](https://stackoverflow.com/users/12071002/imbharat420)
   ![imbharat420](https://user-images.githubusercontent.com/51924618/185731126-d8e08696-8c5d-46d6-b16b-48dbb625f45b.png)
 </details>
 
