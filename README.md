@@ -93,7 +93,7 @@ Here are some ideas to get you started:
   <summary>Stackoverflow 🖼️ </summary>
   
   ### [Stackoverflow]([https://wakatime.com/@Imbharat420](https://stackoverflow.com/users/12071002/imbharat420))
-  ![imbharat420](https://user-images.githubusercontent.com/51924618/185731077-72b43451-0999-40fb-8920-96b79fed2bcb.png)
+  ![imbharat420](https://user-images.githubusercontent.com/51924618/185731126-d8e08696-8c5d-46d6-b16b-48dbb625f45b.png)
 </details>
 
 
