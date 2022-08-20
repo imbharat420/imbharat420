@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <h2> Showcase ❤️ </h2>
 
 <details>
-  <summary>Profiles 🖼️ </summary>
+  <summary>Code Time 🖼️ </summary>
   
   ### [Waka Time](https://wakatime.com/@Imbharat420)
   ![Wakatime Profile](https://user-images.githubusercontent.com/51924618/185724570-4a743c09-eb49-4e79-af01-2387fd0e8333.png)
@@ -85,6 +85,15 @@ Here are some ideas to get you started:
               ╙▀████████████████▀╙
                     └╙╙╙╙╙╙└─
   ```
+</details>
+
+
+
+<details>
+  <summary>Stackoverflow 🖼️ </summary>
+  
+  ### [Stackoverflow]([https://wakatime.com/@Imbharat420](https://stackoverflow.com/users/12071002/imbharat420))
+  ![imbharat420](https://user-images.githubusercontent.com/51924618/185731077-72b43451-0999-40fb-8920-96b79fed2bcb.png)
 </details>
 
 
