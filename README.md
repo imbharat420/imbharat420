@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <h2> Showcase ❤️ </h2>
 
 <details>
-  <summary>Code Time 🖼️ </summary>
+  <summary>Code Time :man_technologist: </summary>
   
   ### [Waka Time](https://wakatime.com/@Imbharat420)
   ![Wakatime Profile](https://user-images.githubusercontent.com/51924618/185724570-4a743c09-eb49-4e79-af01-2387fd0e8333.png)
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>Stackoverflow ‍💻</summary>
+  <summary>Stackoverflow ‍:radioactive: </summary>
   
   ### [Stackoverflow](https://stackoverflow.com/users/12071002/imbharat420)
   ![Stackoverflow imbharat420](https://user-images.githubusercontent.com/51924618/185731126-d8e08696-8c5d-46d6-b16b-48dbb625f45b.png)
