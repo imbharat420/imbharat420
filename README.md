@@ -61,8 +61,8 @@ Here are some ideas to get you started:
   <summary>Code Time :man_technologist: </summary>
   
   ### [Waka Time](https://wakatime.com/@Imbharat420)
-  ![Wakatime Profile](https://user-images.githubusercontent.com/51924618/185724570-4a743c09-eb49-4e79-af01-2387fd0e8333.png)
-  
+  ![Wakatime Profile](https://user-images.githubusercontent.com/51924618/204710633-b6e79945-b56e-45aa-b290-8227cf73cc0e.png)
+ 
   ###
   ```
                  ,▄▄▓██████▓▄▄,
