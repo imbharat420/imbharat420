@@ -1,7 +1,7 @@
 ### Hi there 👋  ###
 
 [![Code Time (This Week)](https://wakatime.com/badge/user/c36c5ee1-a73f-46f1-99e4-1a87bc01948f.svg)](https://wakatime.com/@c36c5ee1-a73f-46f1-99e4-1a87bc01948f)
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246%20Thousand%20lines%20of%20code-blue)
 
 <!--
 **imbharat420/imbharat420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
