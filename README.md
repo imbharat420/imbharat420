@@ -1,7 +1,8 @@
 ### Hi there 👋  ###
 
 [![Code Time (This Week)](https://wakatime.com/badge/user/c36c5ee1-a73f-46f1-99e4-1a87bc01948f.svg)](https://wakatime.com/@c36c5ee1-a73f-46f1-99e4-1a87bc01948f)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-246%20Thousand%20lines%20of%20code-blue)
+&nbsp;&nbsp;
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-159%20Thousand%20lines%20of%20code-blue)
 
 <!--
 **imbharat420/imbharat420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,10 +53,6 @@ Here are some ideas to get you started:
 <h2>Github Trophy</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imbharat420&theme=onedark)](https://github.com/imbharat420/github-profile-trophy)
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="imbharat420" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/imbharat420?trk=profile-badge">Bharat singh</a></div>
-              
 
 <h2> Showcase ❤️ </h2>
 
