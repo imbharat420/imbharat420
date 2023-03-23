@@ -79,8 +79,8 @@
   <summary>Code Time :man_technologist: </summary>
   
   ### [Waka Time](https://wakatime.com/@Imbharat420)
-  ![Wakatime Profile](https://user-images.githubusercontent.com/51924618/204710800-b2950d8a-34e4-4499-b697-acb0c174d52c.png)
- 
+  ![Wakatime Profile](https://user-images.githubusercontent.com/51924618/227158273-078a29d2-9e33-438e-b3ac-d4d05210ca73.png)
+
   ###
   ```
                  ,▄▄▓██████▓▄▄,
