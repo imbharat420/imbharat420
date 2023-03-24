@@ -3,8 +3,9 @@
 
 [![Code Time (This Week)](https://wakatime.com/badge/user/c36c5ee1-a73f-46f1-99e4-1a87bc01948f.svg)](https://wakatime.com/@c36c5ee1-a73f-46f1-99e4-1a87bc01948f)
 &nbsp;&nbsp;
+<!--
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-159%20Thousand%20lines%20of%20code-blue)
-
+-->
 <p align="center">
   <img alt="profile redme image" src="https://user-images.githubusercontent.com/51924618/184501682-879e2d1a-1efc-462b-aa22-334489eb5e92.gif"/>
   <h1 align="center" aria-label="profile name" >✨ Bharat Singh ✨</h1>
