@@ -113,7 +113,7 @@
   
   ### [Stackoverflow](https://stackoverflow.com/users/12071002/imbharat420)
   ![Stackoverflow imbharat420](https://user-images.githubusercontent.com/51924618/185731126-d8e08696-8c5d-46d6-b16b-48dbb625f45b.png)
-
+   <img src="https://github-readme-stackoverflow.vercel.app/?userID=12071002">
 </details>
 
 <details>
