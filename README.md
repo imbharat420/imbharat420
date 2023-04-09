@@ -79,7 +79,7 @@
   <summary>Code Time :man_technologist: </summary>
   
   ### [Waka Time](https://wakatime.com/@Imbharat420)
-  ![Wakatime Profile](https://user-images.githubusercontent.com/51924618/204710800-b2950d8a-34e4-4499-b697-acb0c174d52c.png)
+  ![Wakatime Profile]()
  
   ###
   ```
@@ -122,10 +122,6 @@
 <details>
 
 
-
-
-
-
 <!--
 **imbharat420/imbharat420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -139,4 +135,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+// ☆ Frontend - HTML, CSS, NextJS, ReactJS
+// ☆ Cross Platform - FLutter(Basic)
+// ☆ Backend Web - NodeJS, ExpressJS , PHP
+// ☆ Testing - Jest
+// ☆ Protocols - HTTP, WebSocket
+// ☆ Tools - Git, Vim, Postman, Autodesk Forge Design Automation API, VS Code (CLI is my GF)
+// ☆ Cloud - Digital Ocean
+// ☆ O.S. - Ubuntu, Windows , Arch
+// ☆ CMS - Wordpress , Webflow
+// ☆ Databases - MongoDB, MySQL, Firebase , Sanity.io
+// ☆ Graphics/UI- Figma , Canva
+// ☆ More - OOP,Web3,Nginx,DNS, HTTPS,SSL
+// ☆ Plan -
+//  WebRTC(Mediasoup,Kurento,Janus ... ) , 
+//  Protocol&API(SOAP,RPC,MQTT,WebSocket, 
+//  GraphQL,Neo4j,Redis), 
+//  webGL(ThreeJs,BabylonJs ... )^shaders , 
+//  blockchain(hyperledger,polygon,oracle ... )
 -->

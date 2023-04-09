@@ -1,0 +1,45 @@
+{
+  "bin": {
+    "imbharat420": "me.js"
+  },
+  "name": "imbharat420",
+  "version": "3.0.2",
+  "description": "Software Engineer",
+  "main": "me.js",
+  "scripts": {
+    "publish": "npm version patch && npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imbharat420/imbharat420.git"
+  },
+  "keywords": [
+    "programmer",
+    "imbharat420",
+    "developer",
+    "Bharat Singh",
+    "software engineer",
+    "javascript",
+    "web development",
+    "SEO",
+    "portfolio",
+    "projects"
+  ],
+  "author": "Bharat Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imbharat420/imbharat420/issues"
+  },
+  "homepage": "https://github.com/imbharat420/imbharat420#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "cli-spinners": "^2.6.1",
+    "inquirer": "^7.3.3",
+    "open": "^7.4.2",
+    "ora": "^5.4.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
