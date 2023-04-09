@@ -3,8 +3,9 @@
 
 [![Code Time (This Week)](https://wakatime.com/badge/user/c36c5ee1-a73f-46f1-99e4-1a87bc01948f.svg)](https://wakatime.com/@c36c5ee1-a73f-46f1-99e4-1a87bc01948f)
 &nbsp;&nbsp;
+<!--
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-159%20Thousand%20lines%20of%20code-blue)
-
+-->
 <p align="center">
   <img alt="profile redme image" src="https://user-images.githubusercontent.com/51924618/184501682-879e2d1a-1efc-462b-aa22-334489eb5e92.gif"/>
   <h1 align="center" aria-label="profile name" >✨ Bharat Singh ✨</h1>
@@ -19,7 +20,7 @@
 ### Take a look into it 
 <p><a href="https://github.com/imbharat420/solidity-for-beginner"> ➡️ Learn Solidity 😉 </a></p>
 
-
+ 
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -79,8 +80,13 @@
   <summary>Code Time :man_technologist: </summary>
   
   ### [Waka Time](https://wakatime.com/@Imbharat420)
+<<<<<<< HEAD
   ![Wakatime Profile]()
  
+=======
+  ![Wakatime Profile](https://user-images.githubusercontent.com/51924618/227158273-078a29d2-9e33-438e-b3ac-d4d05210ca73.png)
+
+>>>>>>> 0dae97cf121b7ffbf66f778995367eb98d44c5db
   ###
   ```
                  ,▄▄▓██████▓▄▄,
@@ -112,7 +118,7 @@
   
   ### [Stackoverflow](https://stackoverflow.com/users/12071002/imbharat420)
   ![Stackoverflow imbharat420](https://user-images.githubusercontent.com/51924618/185731126-d8e08696-8c5d-46d6-b16b-48dbb625f45b.png)
-
+   <img src="https://github-readme-stackoverflow.vercel.app/?userID=12071002">
 </details>
 
 <details>
@@ -135,6 +141,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<<<<<<< HEAD
 
 
 // ☆ Frontend - HTML, CSS, NextJS, ReactJS
@@ -156,3 +163,6 @@ Here are some ideas to get you started:
 //  webGL(ThreeJs,BabylonJs ... )^shaders , 
 //  blockchain(hyperledger,polygon,oracle ... )
 -->
+=======
+-->
+>>>>>>> 0dae97cf121b7ffbf66f778995367eb98d44c5db
