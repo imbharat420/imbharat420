@@ -80,13 +80,13 @@
   <summary>Code Time :man_technologist: </summary>
   
   ### [Waka Time](https://wakatime.com/@Imbharat420)
-<<<<<<< HEAD
-  ![Wakatime Profile]()
+
+
  
 =======
   ![Wakatime Profile](https://user-images.githubusercontent.com/51924618/227158273-078a29d2-9e33-438e-b3ac-d4d05210ca73.png)
 
->>>>>>> 0dae97cf121b7ffbf66f778995367eb98d44c5db
+
   ###
   ```
                  ,▄▄▓██████▓▄▄,
