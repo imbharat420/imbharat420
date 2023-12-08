@@ -22,7 +22,7 @@
 
  
 
-<h2>🚀 Some Tools I Use</h2>
+<!--<h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
@@ -37,10 +37,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" /> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" /> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
-
+ -->
 
 ```js
 {
@@ -75,42 +75,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=imbharat420&theme=onedark)](https://github.com/imbharat420/github-profile-trophy)
 
 <h2> Showcase ❤️ </h2>
-
-<details>
-  <summary>Code Time :man_technologist: </summary>
-  
-  ### [Waka Time](https://wakatime.com/@Imbharat420)
-
-
- 
-=======
-  ![Wakatime Profile](https://user-images.githubusercontent.com/51924618/227158273-078a29d2-9e33-438e-b3ac-d4d05210ca73.png)
-
-
-  ###
-  ```
-                 ,▄▄▓██████▓▄▄,
-             ▄▓███████████████████▄
-          ▄████████▀▀▀╙╙╙╙▀▀▀████████▄
-        ▄██████▀└              └▀██████▄
-       ██████└                    └▀█████
-      █████▀                        ╙█████µ
-     █████¬                    ▄█▓    █████
-    ╟████⌐      ╓▄           ╓███▀     ████▌
-    █████       ███▌        ▓███─      █████
-    █████        ▀███,,▓▓ ╓███▀        ╟████
-    █████         └██████████`         █████
-    ╙████▌          ▀██▀███▀          ▐████▌
-     ╟████▄                          ╓█████
-      ▀█████                        ▓█████
-       ╙██████,                  ,▄█████▀
-         ▀██████▓▄            ▄▓██████▀
-           ╙████████████████████████▀
-              ╙▀████████████████▀╙
-                    └╙╙╙╙╙╙└─
-  ```
-</details>
-
 
 
 <details>
